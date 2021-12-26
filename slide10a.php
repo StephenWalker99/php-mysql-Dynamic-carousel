@@ -59,6 +59,7 @@ So if you’re thinking about implementing Carousel in your project then you’r
             ?>
         <div class="row event-item">
           <div class="col-lg-6">
+            <!-- show slide image -->
             <img alt="" class="img-fluid" src="uploads/banner/<?php echo $record['image']; ?>">
             </div>
             <div class="col-lg-6 pt-4 pt-lg-0 content">
